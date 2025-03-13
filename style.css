@@ -1,0 +1,23 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    margin: 180px;
+}
+
+.fa-youtube{
+    color: red;
+}
+.fa-instagram{
+    color: rgb(242, 95, 183);
+}
+.fa-line{
+    color: rgb(94, 232, 94);
+}
+
+svg{
+    height: 40px;
+    stroke:blue;
+    fill:blue;
+    stroke-width: 2;
+}
+
